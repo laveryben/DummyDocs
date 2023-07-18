@@ -25,5 +25,3 @@ pdf.save('output.pdf')
 
 # Close the PDF document
 pdf.close()
-
-!pip install pandas
